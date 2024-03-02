@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <html>
+        
+        <head>
+            <meta charset="UTF-8">
+            <title>My Resume</title>
+            <link rel="stylesheet" href="/design.css">
+        </head>
+        <body>
+            <h1>Paul Oladipo</h1> 
+            <img src="/first project/web design project/second_pfp-removebg-preview.png" width="200" alt=""> 
+            <hr>
+            <h2>Summary</h2>
+            I was born in Nigeria and grew up in Canada. I am a very creative person and I like to use my imagination. 
+            <h2>Education</h2>
+            <ul>
+                <li>Bristol Road Middle School</li>
+                <li>St. Francis Xavier Secondary School (High School diploma)</li>
+            </ul>
+            <hr>
+            <h2>Volunteer experience</h2>
+            <ul>
+                <li>North York Community House</li> <br>
+                <ul>
+                    2018-2021 
+                    <li>Assisting with gardening events connected to climate change.</li>
+                    <li>Helping newcomers settle into their new lives in Canada.</li> 
+                    <li>Organizing tours to learn about the history of Indigenous or First Nations people in Canada.</li><br>
+                </ul>
+                <li>Frank mckechnie community center</li> <br>
+                <ul>
+                    2018
+                    <li>Organized and monitored kids during basketball games.</li>
+                </ul>
+
+            </ul>
+            <h2>Work experience</h2>
+            <ul>
+                <li>Designer for Persona Clothing Brand</li> <br>
+                <ul>
+                    <li>currently in charge of designing garments and clothing.</li>
+                </ul>
+                
+            </ul>
+            <hr>
+            <h2>Skills</h2>
+            <ul>
+                <li>Teamwork skills</li>
+                <li>Innovative and Creative skills</li>
+                <li>Leadership skills</li>
+                <br>
+                <a href="/first project/web design project/hobbies.html">hobbies</a> 
+                <ol>
+                    <li>Drawing</li>
+                    <li>Playing video games</li>
+                    <li>Coding</li>
+                    <li>Cooking</li>
+                </ol>
+                
+            </ul>
+            
+            <hr>
+            <a href="/first project/web design project/contact.html">Contact information</a>
+        </body>
+        <footer>
+            <p>© Paul Oladipo. All rights reserved.</p>
+        </footer>
+        <hr>
+    </html>
